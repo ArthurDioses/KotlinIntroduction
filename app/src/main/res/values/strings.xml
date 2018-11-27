@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">KotlinIntro</string>
+    <string name="title_nickname">NickName:</string>
+    <string name="text_nickname">¿Cuál es tu nick name?</string>
+    <string name="text_click">Click</string>
+    <string name="text_intro">Hola, Mi nombre es arthur Dioses, tengo 25 años y trabajo en everis</string>
 </resources>
